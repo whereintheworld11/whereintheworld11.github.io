@@ -1,4 +1,4 @@
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="kyle-johnson-Aq7id0ZjEW4-unsplash.jpg?raw=true"/>
 
 ## Portfolio
 
