@@ -36,14 +36,19 @@ People seek gain at others expense and business / data processes sometimes break
 
 ---
 
-## Skillsets
+## Capabilities and skillsets
 
+Capabilities
+* Business management / strategy: Growth, digital and product strategy, transformation, business case development, and prioritization
+* Analytics: Insights development, customer journey mapping, data wrangling
+* Business case development
+* Risk management: Anti-money laundering, fraud defense, controls management
 
-\* Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * Microsoft Office / Google Suite <br>
-\* Analytics / journey mapping &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  * SQL / Python <br>
-\* Business case development / prioritization  &nbsp; * Tableau 
-<br>
-\* Risk management &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * Jira <br>
+Software / programming languages: 
+* Productivity: Microsoft Office, Google Suite
+* Statistical programming: SQL, Python 
+* Visualization: Tableau
+* Agile / project management: Jira, Adobe Workfront
 
 ---
 
