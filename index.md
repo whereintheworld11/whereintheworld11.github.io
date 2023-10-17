@@ -1,7 +1,5 @@
 <img src="images/mountain image.jpg?raw=true"/>
 
-## Portfolio
-
 ---
 
 ## Solutions
