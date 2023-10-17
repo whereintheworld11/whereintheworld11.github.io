@@ -36,6 +36,22 @@ People seek gain at others expense and business / data processes sometimes break
 
 ---
 
+## Skillsets
+
+<div class="col1">                          
+    <div>Growth, digital, product strategy</div>
+    <div>Analytics / journey mapping</div>
+    <div>Business case development, prioritization, roadmapping</div> 
+    <div>Risk management</div>                           
+</div>
+
+<div class="col2">
+    <div>Microsoft Office / Google Suite</div>
+    <div>SQL / Python</div>   
+    <div>Tableau</div>
+    <div>Jira</div>
+</div>
+
 ---
 
 ---
