@@ -1,9 +1,4 @@
 logo: "/images/my headshot round.png?raw=true" # your photo (or logo) here
-{
-    width:75%;/*adjust this value to your needs*/
-    max-width: the size of the image;/* so it wont get bigger and pixelated*/
-    height:auto;
- }
 #<br><br>
 title: <center>Evan Almaas </center> # (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
