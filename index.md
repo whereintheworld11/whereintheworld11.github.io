@@ -1,7 +1,5 @@
 <img src="images/mountain image lets find growth 2.png?raw=true"/>
 
----
-
 ## Solutions
 
 ### Business Management / strategy 
