@@ -19,7 +19,7 @@ Business growth requires determining where to play, who to serve, and how to win
 Leading companies use their data to make better decisions than their competitors. They use it to drive customer acquisition, sales, and retention. McKinsey & Company found that analytics champions increase their likelihood of above-average profitability by almost 19 times. Yet, according to Forrester Research, “between 60% and 73% of all data within an enterprise goes unused for analytics.” 
 
 <p align="center">
-  <img src="images/Customer service dashboard.png?raw=true"/>
+  <img src="images/Customer service dashboard truncated.png?raw=true"/>
 </p>
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
