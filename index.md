@@ -40,15 +40,15 @@ People seek gain at others expense and business / data processes sometimes break
 
 ### Capabilities
 * <em>Business management / strategy:</em> Growth, digital and product strategy, transformation, business case development, and prioritization
-* Analytics: Insights development, customer journey mapping, data wrangling
-* Business case development
-* Risk management: Anti-money laundering, fraud defense, controls management
+* <em>Analytics:</em> Insights development, customer journey mapping, data wrangling
+* <em>Risk management:</em> Anti-money laundering, fraud defense, controls management
+* <em>Campaign / product feature optimization:</em> Experimentation (A/B testing), product launch scaling
 
-<em>Software / programming languages</em>
-* Productivity: Microsoft Office, Google Suite
-* Statistical programming: SQL, Python 
-* Visualization: Tableau
-* Agile / project management: Jira, Adobe Workfront
+### Software / programming languages
+* <em>Productivity:</em> Microsoft Office, Google Suite
+* <em>Statistical programming:</em> SQL, Python 
+* <em>Visualization:</em> Tableau
+* <em>Agile / project management:</em> Jira, Adobe Workfront
 
 ---
 
