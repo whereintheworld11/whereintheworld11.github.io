@@ -1,4 +1,4 @@
-<img src="images/mountain image lets find growth shifted.png?raw=true"/>
+<img src="images/lets find growth.png?raw=true"/>
 
 ## Solutions
 
