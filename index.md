@@ -29,7 +29,7 @@ Leading companies use their data to make better decisions than their competitors
 
 People seek gain at others expense and business / data processes sometimes break down. Mitigating losses requires controls to prevent risk and rapid identification and response when things go wrong.
 
-Growth, digital, product strategy                          Microsoft Office / Google Suite
+Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Microsoft Office / Google Suite
 
 Analytics / journey mapping                                SQL / Python
 
