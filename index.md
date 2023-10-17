@@ -38,13 +38,13 @@ People seek gain at others expense and business / data processes sometimes break
 
 ## Capabilities and skillsets
 
-Capabilities
+<em>Capabilities</em>
 * Business management / strategy: Growth, digital and product strategy, transformation, business case development, and prioritization
 * Analytics: Insights development, customer journey mapping, data wrangling
 * Business case development
 * Risk management: Anti-money laundering, fraud defense, controls management
 
-Software / programming languages 
+<em>Software / programming languages</em>
 * Productivity: Microsoft Office, Google Suite
 * Statistical programming: SQL, Python 
 * Visualization: Tableau
