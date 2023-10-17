@@ -38,7 +38,7 @@ People seek gain at others expense and business / data processes sometimes break
 
 ## Capabilities and skillsets
 
-###Capabilities
+### Capabilities
 * <em>Business management / strategy:</em> Growth, digital and product strategy, transformation, business case development, and prioritization
 * Analytics: Insights development, customer journey mapping, data wrangling
 * Business case development
