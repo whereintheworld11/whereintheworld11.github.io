@@ -1,4 +1,4 @@
-<img src="images/mountain image.jpg?raw=true"/>
+<img src="images/mountain image lets find growth.png?raw=true"/>
 
 ---
 
