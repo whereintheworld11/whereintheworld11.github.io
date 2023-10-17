@@ -38,6 +38,11 @@ People seek gain at others expense and business / data processes sometimes break
 
 ## Skillsets
 
+Growth, digital, product strategy                          Microsoft Office / Google Suite
+Analytics / journey mapping                                SQL / Python
+Business case development, prioritization, roadmapping     Tableau 
+Risk management                                            Jira
+
 | Column 1 | Column 2 |
 | -------- | -------- |
 | Strategy (growth, digital, product) | Microsoft Office / Google Suite |
