@@ -8,7 +8,9 @@
 
 Business growth requires determining where to play, who to serve, and how to win (or [product-market fit](https://medium.com/@jnvipul/pm-corner-what-is-product-market-fit-pmf-9c087b7edadd)). These can change based on external market factors and as a business matures. Ideas become viable solutions through the stages of discovery, definition, development, and delivery.
 
-<img src="images/customer flow logo.png?raw=true"/>
+<p align="center">
+  <img src="images/customer flow logo.png?raw=true"/>
+</p>
 
 [Project 1 Title](/sample_page)
 
@@ -16,7 +18,9 @@ Business growth requires determining where to play, who to serve, and how to win
 
 Leading companies use their data to make better decisions than their competitors. They use it to drive customer acquisition, sales, and retention. McKinsey & Company found that analytics champions increase their likelihood of above-average profitability by almost 19 times. Yet, according to Forrester Research, “between 60% and 73% of all data within an enterprise goes unused for analytics.” 
 
-<img src="Customer service dashboard.png?raw=true"/>
+<p align="center">
+  <img src="images/Customer service dashboard.png?raw=true"/>
+</p>
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
