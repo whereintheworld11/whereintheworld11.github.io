@@ -27,12 +27,6 @@ Leading companies use their data to make better decisions than their competitors
 
 People seek gain at others expense and business / data processes sometimes break down. Mitigating losses requires controls to prevent risk and rapid identification and response when things go wrong.
 
-Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Microsoft Office / Google Suite <br>
-Analytics / journey mapping &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SQL / Python <br>
-Business case development, prioritization, roadmapping&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tableau 
-<br>
-Risk management  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jira <br>
-
 <p align="center">
   <img src="images/stop bad stuff.png?raw=true"/>
 </p>
@@ -44,37 +38,12 @@ Risk management  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## Skillsets
 
-Growth, digital, product strategy                          Microsoft Office / Google Suite
 
-Analytics / journey mapping                                SQL / Python
-
-Business case development, prioritization, roadmapping     Tableau 
-
-Risk management                                            Jira
-
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Strategy (growth, digital, product) | Microsoft Office / Google Suite |
-| Analytics / customer journey mapping | SQL / Python |
-| Business case development, prioritization, roadmapping | Tableau |
-| Risk management | Jira |
-
-    Growth, digital, product strategy                          Microsoft Office / Google Suite
-    Analytics / journey mapping                                SQL / Python
-    Business case development, prioritization, roadmapping     Tableau 
-    Risk management                                            Jira
-
-<!--
-    Growth, digital, product strategy                          Microsoft Office / Google Suite
-    Analytics / journey mapping                                SQL / Python
-    Business case development, prioritization, roadmapping     Tableau 
-    Risk management                                            Jira
-    
-    
-    
-    Jira
--->
+* Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * Microsoft Office / Google Suite <br>
+* Analytics / journey mapping &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * SQL / Python <br>
+* Business case development, prioritization, roadmapping&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * Tableau 
+<br>
+* Risk management  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; * Jira <br>
 
 ---
 
