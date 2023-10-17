@@ -44,7 +44,7 @@ Capabilities
 * Business case development
 * Risk management: Anti-money laundering, fraud defense, controls management
 
-Software / programming languages: 
+Software / programming languages 
 * Productivity: Microsoft Office, Google Suite
 * Statistical programming: SQL, Python 
 * Visualization: Tableau
