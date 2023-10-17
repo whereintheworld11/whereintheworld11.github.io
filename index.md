@@ -10,7 +10,9 @@ Business growth requires determining where to play, who to serve, and how to win
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
 
+<!-- 
 [Project 1 Title](/sample_page)
+-->
 
 ### Analytics and data science
 
@@ -20,8 +22,9 @@ Leading companies use their data to make better decisions than their competitors
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
 </p>
 
+<!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
-
+-->
 
 ### Risk management
 
@@ -31,8 +34,9 @@ People seek gain at others expense and business / data processes sometimes break
   <img src="images/stop bad stuff.png?raw=true"/>
 </p>
 
+<!--
 [Project 3 Title](http://example.com/)
-
+-->
 
 ---
 
@@ -46,14 +50,11 @@ People seek gain at others expense and business / data processes sometimes break
 
 ### Software / programming languages
 * <em>Productivity:</em> Microsoft Office, Google Suite
-* <em>Statistical programming:</em> SQL, Python 
-* <em>Visualization:</em> Tableau
-* <em>Agile / project management:</em> Jira, Adobe Workfront
+* <em>Statistical programming:</em> SQL, Python, Databricks, Snowflake 
+* <em>Analytics and visualization:</em> Google Analytics, Tableau
+* <em>Agile / project management:</em> Jira, Confluence, Adobe Workfront
 
----
-
----
-
+<!--
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -61,12 +62,8 @@ People seek gain at others expense and business / data processes sometimes break
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
-
-
+-->
+  
 ---
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
