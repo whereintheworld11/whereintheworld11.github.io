@@ -11,8 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!--Evan currently resides with his family near Cambridge in the United Kingdom. He enjoys exploring the UK and Europe, running with his dog, hiking, reading, cooking and chasing his young children.-->
   </p>
   
-  <a href="https://www.linkedin.com/in/evanalmaas/">My LinkedIn</a>
-  <br><br>
+  <a href="https://www.linkedin.com/in/evanalmaas/">My LinkedIn</a> &nbsp; &nbsp; &nbsp;
   <a href="mailto:evan.almaas@gmail.com">Email Me</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
