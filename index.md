@@ -44,19 +44,20 @@ People seek gain at others expense and business / data processes sometimes break
 | Analytics / customer journey mapping | SQL / Python |
 | Business case development, prioritization, roadmapping | Tableau |
 | Risk management | Jira |
-{
-  border-collapse: collapse;
-  border: none;
-}
+
+    Growth, digital, product strategy                          Microsoft Office / Google Suite
+    Analytics / journey mapping                                SQL / Python
+    Business case development, prioritization, roadmapping     Tableau 
+    Risk management                                            Jira
 
 <!--
-    Growth, digital, product strategy
-    Analytics / journey mapping
-    Business case development, prioritization, roadmapping</div> 
-    Risk management
-    Microsoft Office / Google Suite
-    SQL / Python
-    Tableau
+    Growth, digital, product strategy                          Microsoft Office / Google Suite
+    Analytics / journey mapping                                SQL / Python
+    Business case development, prioritization, roadmapping     Tableau 
+    Risk management                                            Jira
+    
+    
+    
     Jira
 -->
 
