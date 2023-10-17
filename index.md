@@ -14,13 +14,27 @@ Business growth requires determining where to play, who to serve, and how to win
 
 [Project 1 Title](/sample_page)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Analytics and data science
+
+Leading companies use their data to make better decisions than their competitors. They use it to drive customer acquisition, sales, and retention. McKinsey & Company found that analytics champions increase their likelihood of above-average profitability by almost 19 times. Yet, according to Forrester Research, “between 60% and 73% of all data within an enterprise goes unused for analytics.” 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+[Project 2 Title](/pdf/sample_presentation.pdf)
+
+
+### Risk management
+
+People seek gain at others expense and business / data processes sometimes break down. Mitigating losses requires controls to prevent risk and rapid identification and response when things go wrong.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+
+
+---
+
+---
 
 ---
 
