@@ -6,8 +6,6 @@
 
 Business growth requires determining where to play, who to serve, and how to win (or [product-market fit](https://medium.com/@jnvipul/pm-corner-what-is-product-market-fit-pmf-9c087b7edadd)). These can change based on external market factors and as a business matures. Ideas become viable solutions through the stages of discovery, definition, development, and delivery.
 
-Test
-
 <p align="center">
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
@@ -29,10 +27,10 @@ Leading companies use their data to make better decisions than their competitors
 
 People seek gain at others expense and business / data processes sometimes break down. Mitigating losses requires controls to prevent risk and rapid identification and response when things go wrong.
 
-Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Microsoft Office / Google Suite
-Analytics / journey mapping &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        SQL / Python
+Growth, digital, product strategy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Microsoft Office / Google Suite <br>
+Analytics / journey mapping &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        SQL / Python <br>
 Business case development, prioritization, roadmapping&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     Tableau 
-Risk management  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jira
+Risk management  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jira <br>
 
 <p align="center">
   <img src="images/stop bad stuff.png?raw=true"/>
