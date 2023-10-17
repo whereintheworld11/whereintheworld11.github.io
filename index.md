@@ -38,6 +38,41 @@ People seek gain at others expense and business / data processes sometimes break
 
 ## Skillsets
 
+<html>
+<head>
+  <style>
+    /* Define a class for the two columns */
+    .column {
+      float: left;
+      width: 50%; /* Set the width of each column */
+    }
+  </style>
+</head>
+<body>
+
+<div class="column">
+  <h2>Column 1</h2>
+  <p>
+    Growth, digital, product strategy
+    Analytics / journey mapping
+    Business case development, prioritization, roadmapping</div> 
+    Risk management
+    </p>
+</div>
+
+<div class="column">
+  <h2>Column 2</h2>
+  <p>
+    Microsoft Office / Google Suite
+    SQL / Python
+    Tableau
+    Jira
+  </p>
+</div>
+
+</body>
+</html>
+
 <div class="col1">                          
     <div>Growth, digital, product strategy</div>
     <div>Analytics / journey mapping</div>
