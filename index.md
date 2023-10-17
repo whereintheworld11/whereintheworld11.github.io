@@ -26,7 +26,7 @@ Leading companies use their data to make better decisions than their competitors
 ### Risk management
 
 People seek gain at others expense and business / data processes sometimes break down. Mitigating losses requires controls to prevent risk and rapid identification and response when things go wrong.
-<center><img src="images/stop bad stuff.png?raw=true"/></center>
+-><img src="images/stop bad stuff.png?raw=true"/><-
 
 [Project 3 Title](http://example.com/)
 
