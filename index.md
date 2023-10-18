@@ -78,7 +78,7 @@ Introduction to Data Science in Python, University of Michigan
 * Issued October 2023
 * ([Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))\
   <br>
-&#Certified Anti-Money Laundering Specialist (CAMS), Association of Certified Anti-Money Laundering Specialists (ACAMS) <br>
+Certified Anti-Money Laundering Specialist (CAMS), Association of Certified Anti-Money Laundering Specialists (ACAMS)\ <br>
 * Issued September 2020\
 <br>
 Google Analytics Certified <br>
