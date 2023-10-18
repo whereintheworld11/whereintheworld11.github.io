@@ -1,4 +1,4 @@
-logo: "/images/my headshot round.png?raw=true" # your photo (or logo) here
+logo: <center>"/images/my headshot round.png?raw=true"</center> # your photo (or logo) here
 #<br><br>
 title: <center>Evan Almaas </center> # (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
