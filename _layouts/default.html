@@ -36,7 +36,7 @@
    <div class="wrapper">
       <header>
          {% if site.logo %}
-         <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 200px; max-height: 150px;" /p> <!-- added size attributes -->
+         <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 200px; max-height: 150px; /p> <!-- added size attributes -->
          {% endif %}
          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          <p>{{ site.description | default: site.github.project_tagline }}</p>
