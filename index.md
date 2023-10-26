@@ -2,6 +2,45 @@
 
 ## Solutions
 
+💡 Ways I can help you:
+
+• Performance assessment. Determine whether your current activities are driving your desired outcomes.
+
+• Goal setting / strategy development. Develop achievable goals and a strategy to achieve them.
+
+• Opportunity assessment / solution design and delivery. Understand your customer opportunities and deliver solutions.
+
+• Data visualization. Visualize performance metrics and create a dashboard.
+
+• Experiments / optimization. Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+
+• Risk mitigation. Identify and mitigate data or financial crime risks.
+
+
+📦 Select projects I’ve delivered:
+
+• Designed and implemented an operating model to fully leverage the contributions of cross-functional team members, complete with governance structures and a decision framework.
+
+• Launched a cross-marketing email project that achieved a $71M run rate, including building the business case, project management, writing the creative brief, developing and implementing the launch plan (in-market testing and scaling), and building monitoring (funnel and booking metrics).
+
+• Determined root causes leading to the sign-in failure of target customers. Identified and implemented a “good” solution to mitigate the issue leading to 600K logins worth at least $1.2M, while the “perfect” solution was mired in prioritization hurdles.
+
+• Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
+
+
+🤝 The benefits of working with me:
+
+• I bring a combination of skillsets that span strategy development and data analysis / data science
+
+• I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
+
+• I will share progress along the way to ensure the final product meets your requirements
+
+• I can understand your needs because I have worked with companies across industries and at various stages of growth
+
+
+## Practice Areas
+
 ### Business management / strategy 
 
 Business growth requires determining where to play, who to serve, and how to win (or [product-market fit](https://medium.com/@jnvipul/pm-corner-what-is-product-market-fit-pmf-9c087b7edadd)). These can change based on external market factors and as a business matures. Ideas become viable solutions through the stages of discovery, definition, development, and delivery.
