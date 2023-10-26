@@ -1,8 +1,8 @@
 <img src="images/lets find growth.png?raw=true"/>
 
-## Solutions
+## Solutions 💡
 
-💡 Ways I can help you:
+Ways I can help you:
 * <em> Performance assessment.</em> Determine whether your current activities are driving your desired outcomes.
 * <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
 * <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver solutions.
@@ -20,17 +20,6 @@
 • Determined root causes leading to the sign-in failure of target customers. Identified and implemented a “good” solution to mitigate the issue leading to 600K logins worth at least $1.2M, while the “perfect” solution was mired in prioritization hurdles.
 
 • Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
-
-
-🤝 The benefits of working with me:
-
-• I bring a combination of skillsets that span strategy development and data analysis / data science
-
-• I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
-
-• I will share progress along the way to ensure the final product meets your requirements
-
-• I can understand your needs because I have worked with companies across industries and at various stages of growth
 
 
 ## Practice Areas
@@ -106,7 +95,7 @@ Seattle Pacific University	Seattle, WA
 
 ---
 
-## Certifications
+## Certifications 🎓
 * Introduction to Data Science in Python, University of Michigan 
     * Issued October 2023
     * ([Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))
@@ -115,7 +104,15 @@ Seattle Pacific University	Seattle, WA
 * Google Analytics Certified
     * Issued March 2015
 * Leading with Analytics-Powered Strategy, Kellogg at Northwestern University
-    * Issued April 2019 
+    * Issued April 2019
+ 
+---
+
+🤝 The benefits of working with me:
+* I bring a combination of skillsets that span strategy development and data analysis / data science
+* I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
+* I will share progress along the way to ensure the final product meets your requirements
+* I can understand your needs because I have worked with companies across industries and at various stages of growth
 
 <!--
 ### Category Name 2
