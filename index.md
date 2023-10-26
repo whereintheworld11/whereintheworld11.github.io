@@ -108,11 +108,11 @@ Seattle Pacific University	Seattle, WA
  
 ---
 
-🤝 The benefits of working with me:
-* I bring a combination of skillsets that span strategy development and data analysis / data science
-* I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
-* I will share progress along the way to ensure the final product meets your requirements
-* I can understand your needs because I have worked with companies across industries and at various stages of growth
+## Why we should partner 🤝 
+* <em>Outcomes focus.</em> I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
+* <em>Collaborative model.</em> I will share progress along the way to ensure the final product meets your requirements
+* <em>Cross-functional expertise.</em> My combination of strategy and data analysis skillsets means we'll find solutions that work and that your team can maintain.
+* <em>Broad domain knowledge.</em> I can understand your needs because I have worked with companies across industries and at various stages of growth
 
 <!--
 ### Category Name 2
