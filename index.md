@@ -109,10 +109,10 @@ Seattle Pacific University	Seattle, WA
 ---
 
 ## Why we should partner 🤝 
-* <em>Outcomes focus.</em> I focus on the outcomes you are trying to achieve, and tailor-make a solution for you
-* <em>Collaborative model.</em> I will share progress along the way to ensure the final product meets your requirements
-* <em>Cross-functional expertise.</em> My combination of strategy and data analysis skillsets means we'll find solutions that work and that your team can maintain.
-* <em>Broad domain knowledge.</em> I can understand your needs because I have worked with companies across industries and at various stages of growth
+* <em>Outcomes focus.</em> I focus on the outcomes you are trying to achieve, and tailor-make a solution for you.
+* <em>Collaborative model.</em> I will share progress along the way to ensure the final product meets your requirements.
+* <em>Cross-functional expertise.</em> Strategy + data analysis skillsets means we'll find viable solutions that play to your organization's strengths.
+* <em>Broad domain knowledge.</em> Broad industry and growth phase experience means I've worked with an organization like yours.
 
 <!--
 ### Category Name 2
