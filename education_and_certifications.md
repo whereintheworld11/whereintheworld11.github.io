@@ -1,7 +1,5 @@
 ## Education and certifications 🎓
 
----
-
 ### Education
 
 University of Virginia, Darden School of Business	Charlottesville, VA
@@ -18,9 +16,7 @@ Seattle Pacific University	Seattle, WA
 * Elected School of Business senator
 * Led recruiting for American Cancer Society Relay for Life
 
----
-
-## Certifications
+### Certifications
 * Introduction to Data Science in Python, University of Michigan 
     * Issued October 2023
     * ([Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))
