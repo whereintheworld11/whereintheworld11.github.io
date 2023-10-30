@@ -44,7 +44,7 @@ Sometimes people seek gain at others' expense, and occasionally business or data
 ---
 
 ## Ideas
-Ways we might partner. [See more](/ideas)
+[See here](/ideas) for ways we might partner. 
 
 
 <!--
