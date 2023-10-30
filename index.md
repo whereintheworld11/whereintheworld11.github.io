@@ -41,7 +41,7 @@
 
 <br>
 
-## Let's find growth!
+## Working together
 
 ### Project engagement model 
 We can [structure a project](/engagement_model) to meet your needs.
