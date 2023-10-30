@@ -36,7 +36,7 @@
 
 ---
 
-## Ideas
+## Project ideas
 [See here](/ideas) for ways we might partner. 
 
 
