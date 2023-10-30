@@ -1,8 +1,8 @@
 <img src="images/lets find growth.png?raw=true"/>
 
-## Solutions
+# Solutions
 
-### Business management / strategy 
+## Business management / strategy 
 
 <p align="center">
   <img src="images/customer flow logo.png?raw=true"/>
@@ -14,7 +14,7 @@
 [Project 1 Title](/sample_page)
 -->
 
-### Analytics and data science
+## Analytics and data science
 
 <p align="center">
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
@@ -26,7 +26,7 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 -->
 
-### Risk management
+## Risk management
 
 <p align="center">
   <img src="images/stop bad stuff.png?raw=true"/>
@@ -36,9 +36,9 @@
 
 ---
 
-## Let's find growth!
+# Let's find growth!
 
-### Project ideas
+## Project ideas
 [See here](/ideas) for ways we might partner. 
 
 
@@ -51,7 +51,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 
 ---
 
-## Qualifications
+# Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
 <!--
