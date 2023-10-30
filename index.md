@@ -20,7 +20,7 @@
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
 </p>
 
-[Learn more] about my thoughts and project work in analytics and data science
+[Learn more](/analytics_and_data_science) about my thoughts and project work in analytics and data science
   
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
