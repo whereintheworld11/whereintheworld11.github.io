@@ -35,6 +35,7 @@
 [Find out more](/risk_management) about my perspectives and experience in risk management.
 
 ---
+<br><br>
 
 # Let's find growth!
 
@@ -50,6 +51,7 @@
 We can [structure a project](/engagement_model) to meet your needs.
 
 ---
+<br><br>
 
 # Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
