@@ -20,7 +20,7 @@ Seattle Pacific University	Seattle, WA
 
 ---
 
-## Certifications 🎓
+## Certifications
 * Introduction to Data Science in Python, University of Michigan 
     * Issued October 2023
     * ([Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))
