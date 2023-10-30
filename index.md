@@ -36,7 +36,9 @@
 
 ---
 
-## Project ideas
+## Let's find growth!
+
+### Project ideas
 [See here](/ideas) for ways we might partner. 
 
 
@@ -44,9 +46,7 @@
 [Project 3 Title](http://example.com/)
 -->
 
----
-
-## Engagement model 
+## Project engagement model 
 We can [structure a project](/engagement_model) to meet your needs.
 
 ---
