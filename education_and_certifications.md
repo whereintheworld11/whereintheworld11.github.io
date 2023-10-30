@@ -1,4 +1,4 @@
-## Education and certifications 🎓
+##  🎓 Education and certifications
 <br>
 
 ### Education
