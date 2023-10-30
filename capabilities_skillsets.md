@@ -2,7 +2,6 @@
 <br>
 
 ##  🎓 Education and certifications
-<br>
 
 ### Education
 
