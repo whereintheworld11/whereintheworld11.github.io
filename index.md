@@ -35,6 +35,7 @@
 
 [Find out more](/risk_management) about my perspectives and experience in risk management.
 
+<hr style="border:1px solid gray">
 
 <br><br>
 
@@ -47,6 +48,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 [See here](/ideas) for ways we could partner. 
 
 
+<hr style="border:1px solid gray">
 
 <br><br>
 
