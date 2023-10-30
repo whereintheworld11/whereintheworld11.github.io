@@ -57,7 +57,7 @@ Potential ways I can help you:
 ---
 
 ## Engagement model 
-We can [structure a project](/engagement_model) to meet your needs. 
+We can [structure a project](/engagement_model) to meet your needs. Changed to md file type.
 
 ---
 
