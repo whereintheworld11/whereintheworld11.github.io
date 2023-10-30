@@ -59,7 +59,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 ---
 
 ## Qualifications
-Top-tier business education + certifications + skillsets. [See more](/education_capabilities)
+[Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
 <!--
 ---
