@@ -8,7 +8,7 @@
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
 
-Read [my thoughts and learn] about my project work (/business_management_strategy) in this space. 
+[Read](/business_management_strategy) my perspectives and learn about my project work in business management and business strategy. 
 
 <!-- 
 [Project 1 Title](/sample_page)
