@@ -56,6 +56,10 @@ Potential ways I can help you:
 
 ---
 
+[## Engagement model](/engagement_model)
+
+---
+
 ## Capabilities and skillsets
 
 ### Capabilities
