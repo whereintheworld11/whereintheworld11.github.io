@@ -1,4 +1,5 @@
 <img src="images/lets find growth.png?raw=true"/>
+<br>
 
 # Solutions
 
@@ -78,6 +79,6 @@ We can [structure a project](/engagement_model) to meet your needs.
 ---
 <br><br>
 
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
