@@ -40,16 +40,12 @@
 
 ## Let's find growth!
 
-### Project ideas
-[See here](/ideas) for ways we might partner. 
-
-
-<!--
-[Project 3 Title](http://example.com/)
--->
-
 ### Project engagement model 
 We can [structure a project](/engagement_model) to meet your needs.
+
+### Project ideas
+[See here](/ideas) for ways we could partner. 
+
 
 
 <br><br>
@@ -60,6 +56,10 @@ We can [structure a project](/engagement_model) to meet your needs.
 <br><br>
 <!--
 ---
+
+[Project 3 Title](http://example.com/)
+
+
 
 ## Why we should partner 🤝 
 * <em>Outcomes focus.</em> I focus on the outcomes you are trying to achieve, and tailor-make a solution for you.
