@@ -61,15 +61,10 @@ We can [structure a project](/engagement_model) to meet your needs. Changed to m
 
 ---
 
-## Capabilities and skillsets
-Business management / strategy + analytics + risk management. [See more](/capabilities_skillsets)
+## Qualifications
+Top-tier business education + technical and risk management certifications + skillsets [See more](/education_capabilities)
 
-
----
-
-## Education and certifications
-Top-tier business education as well as technical and risk management certifications. [See more](/education_and_certifications)
- 
+<!--
 ---
 
 ## Why we should partner 🤝 
@@ -77,7 +72,7 @@ Top-tier business education as well as technical and risk management certificati
 * <em>Collaborative model.</em> I will share progress along the way to ensure the final product meets your requirements.
 * <em>Cross-functional expertise.</em> Strategy + data analysis skillsets means we'll find viable solutions that play to your organization's strengths.
 * <em>Broad domain knowledge.</em> Broad industry and growth phase experience means I've worked with an organization like yours.
-
+-->
 <!--
 ### Category Name 2
 
