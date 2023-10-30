@@ -1,5 +1,5 @@
 # Qualifications
-
+<br><br>
 
 ##  🎓 Education and certifications
 <br>
