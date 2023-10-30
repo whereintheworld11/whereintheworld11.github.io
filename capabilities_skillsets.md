@@ -1,5 +1,5 @@
 # Qualifications
-<br><br>
+<br>
 
 ##  🎓 Education and certifications
 <br>
@@ -19,7 +19,6 @@ Seattle Pacific University	Seattle, WA
 * Graduated Cum Laude, Dean’s List for 10 quarters
 * Elected School of Business senator
 * Led recruiting for American Cancer Society Relay for Life
-<br>
 
 ### Certifications
 
