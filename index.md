@@ -54,20 +54,19 @@ We can [structure a project](/engagement_model) to meet your needs.
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
 <br><br>
+
+
 <!--
 ---
 
 [Project 3 Title](http://example.com/)
-
-
 
 ## Why we should partner 🤝 
 * <em>Outcomes focus.</em> I focus on the outcomes you are trying to achieve, and tailor-make a solution for you.
 * <em>Collaborative model.</em> I will share progress along the way to ensure the final product meets your requirements.
 * <em>Cross-functional expertise.</em> Strategy + data analysis skillsets means we'll find viable solutions that play to your organization's strengths.
 * <em>Broad domain knowledge.</em> Broad industry and growth phase experience means I've worked with an organization like yours.
--->
-<!--
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
