@@ -1,7 +1,7 @@
 ## Capabilities and skillsets 
 
 Business management / strategy + analytics + risk management 
-<br>
+<br><br>
 
 ### Capabilities
 
