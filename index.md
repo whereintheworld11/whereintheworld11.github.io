@@ -57,7 +57,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 ## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
-<br>
+<br><br>
 <!--
 ---
 
@@ -78,7 +78,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 -->
   
 ---
-<br><br>
+
 
 <p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
