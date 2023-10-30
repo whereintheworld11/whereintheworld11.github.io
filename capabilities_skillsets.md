@@ -31,10 +31,11 @@ Leading with Analytics-Powered Strategy, Kellogg at Northwestern University (Iss
 
 ---
 
+
 ## 🛠️ Capabilities and skillsets 
 
 Business management / strategy + analytics + risk management 
-<br><br>
+<br>
 
 ### Capabilities
 
@@ -45,7 +46,6 @@ Business management / strategy + analytics + risk management
 * <em>Risk management:</em> Anti-money laundering, fraud defense, controls management
   
 * <em>Campaign / product feature optimization:</em> Experimentation (A/B testing), product launch scaling
-<br>
 
 ### Software / programming languages
 
