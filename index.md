@@ -1,9 +1,9 @@
 <img src="images/lets find growth.png?raw=true"/>
 <br>
 
-# Solutions
+## Solutions
 
-## Business management / strategy 
+### Business management / strategy 
 
 <p align="center">
   <img src="images/customer flow logo.png?raw=true"/>
@@ -15,7 +15,7 @@
 [Project 1 Title](/sample_page)
 -->
 
-## Analytics and data science
+### Analytics and data science
 
 <p align="center">
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
@@ -27,7 +27,7 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 -->
 
-## Risk management
+### Risk management
 
 <p align="center">
   <img src="images/stop bad stuff.png?raw=true"/>
@@ -38,9 +38,9 @@
 ---
 <br><br>
 
-# Let's find growth!
+## Let's find growth!
 
-## Project ideas
+### Project ideas
 [See here](/ideas) for ways we might partner. 
 
 
@@ -48,13 +48,13 @@
 [Project 3 Title](http://example.com/)
 -->
 
-## Project engagement model 
+### Project engagement model 
 We can [structure a project](/engagement_model) to meet your needs.
 
 ---
 <br><br>
 
-# Qualifications
+## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
 <!--
@@ -79,6 +79,6 @@ We can [structure a project](/engagement_model) to meet your needs.
 ---
 <br><br>
 
-<p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-<font size = "1">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></font>
+<p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
