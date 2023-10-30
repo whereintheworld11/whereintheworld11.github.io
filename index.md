@@ -57,12 +57,12 @@ Potential ways I can help you:
 ---
 
 ## Engagement model 
-We can [structure a project](/engagement_model) to meet your needs. Changed to md file type.
+We can [structure a project](/engagement_model) to meet your needs.
 
 ---
 
 ## Qualifications
-Top-tier business education + technical and risk management certifications + skillsets [See more](/education_capabilities)
+Top-tier business education + certifications + skillsets. [See more](/education_capabilities)
 
 <!--
 ---
