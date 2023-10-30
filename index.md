@@ -80,5 +80,5 @@ We can [structure a project](/engagement_model) to meet your needs.
 <br><br>
 
 <p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<font size = "1">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></font>
 <!-- Remove above link if you don't want to attibute -->
