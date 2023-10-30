@@ -1,5 +1,5 @@
 <img src="images/lets find growth.png?raw=true"/>
-<br>
+<br><br>
 
 ## Solutions
 
@@ -35,9 +35,11 @@
 
 [Find out more](/risk_management) about my perspectives and experience in risk management.
 
+<br>
+
 <hr style="border:0.1px solid gray">
 
-<br><br>
+<br>
 
 ## Let's find growth!
 
@@ -47,10 +49,11 @@ We can [structure a project](/engagement_model) to meet your needs.
 ### Project ideas
 [See here](/ideas) for ways we could partner. 
 
+<br>
 
 <hr style="border:.1px solid gray">
 
-<br><br>
+<br>
 
 ## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
