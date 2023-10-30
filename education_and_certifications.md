@@ -17,8 +17,7 @@ Seattle Pacific University	Seattle, WA
 * Led recruiting for American Cancer Society Relay for Life
 
 ### Certifications
-Introduction to Data Science in Python, University of Michigan (Issued October 2023)
-* ([Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))
+Introduction to Data Science in Python, University of Michigan (Issued October 2023, [Course certificate](https://www.coursera.org/account/accomplishments/certificate/KWLW2J2NYZ9Y))
 
 Certified Anti-Money Laundering Specialist (CAMS), Association of Certified Anti-Money Laundering Specialists (ACAMS) (Issued September 2020)
 
