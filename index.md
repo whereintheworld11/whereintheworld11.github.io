@@ -56,7 +56,9 @@ Potential ways I can help you:
 
 ---
 
-[## Engagement model](/engagement_model)
+## Engagement model
+
+How we can [structure a project](/engagement_model) to meet your needs. 
 
 ---
 
