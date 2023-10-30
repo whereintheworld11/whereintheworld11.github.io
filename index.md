@@ -1,28 +1,6 @@
 <img src="images/lets find growth.png?raw=true"/>
 
-## Solutions 💡
-
-Ways I can help you:
-* <em> Performance assessment.</em> Determine whether your current activities are driving your desired outcomes.
-* <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
-* <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver solutions.
-* <em> Data visualization.</em> Visualize performance metrics and create a dashboard.
-* <em> Experiments / optimization.</em> Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
-* <em> Risk mitigation.</em> Identify and mitigate data or financial crime risks.
-
-
-📦 Select projects I’ve delivered:
-
-• Designed and implemented an operating model to fully leverage the contributions of cross-functional team members, complete with governance structures and a decision framework.
-
-• Launched a cross-marketing email project that achieved a $71M run rate, including building the business case, project management, writing the creative brief, developing and implementing the launch plan (in-market testing and scaling), and building monitoring (funnel and booking metrics).
-
-• Determined root causes leading to the sign-in failure of target customers. Identified and implemented a “good” solution to mitigate the issue leading to 600K logins worth at least $1.2M, while the “perfect” solution was mired in prioritization hurdles.
-
-• Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
-
-
-## Practice Areas
+## Solutions
 
 ### Business management / strategy 
 
@@ -31,6 +9,10 @@ Business growth requires determining where to play, who to serve, and how to win
 <p align="center">
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
+
+Project example:
+* Launched a cross-marketing email project that achieved a $71M run rate, including building the business case, project management, writing the creative brief, developing and implementing the launch plan (in-market testing and scaling), and building monitoring (funnel and booking metrics).
+* Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
 
 <!-- 
 [Project 1 Title](/sample_page)
@@ -44,6 +26,9 @@ Leading companies use their data to make better decisions than their competitors
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
 </p>
 
+Project example:
+* Determined root causes leading to the sign-in failure of target customers. Identified and implemented a “good” solution to mitigate the issue leading to 600K logins worth at least $1.2M, while the “perfect” solution was mired in prioritization hurdles.
+  
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
 -->
@@ -55,6 +40,15 @@ Sometimes people seek gain at others' expense, and occasionally business or data
 <p align="center">
   <img src="images/stop bad stuff.png?raw=true"/>
 </p>
+
+Potential ways I can help you:
+* <em> Performance assessment.</em> Determine whether your current activities are driving your desired outcomes.
+* <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
+* <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver solutions.
+* <em> Data visualization.</em> Visualize performance metrics and create a dashboard.
+* <em> Experiments / optimization.</em> Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+* <em> Risk mitigation.</em> Identify and mitigate data or financial crime risks.
+
 
 <!--
 [Project 3 Title](http://example.com/)
@@ -73,7 +67,7 @@ Sometimes people seek gain at others' expense, and occasionally business or data
 ### Software / programming languages
 * <em>Productivity:</em> Microsoft Office, Google Suite
 * <em>Statistical programming:</em> SQL, Python, Databricks, Snowflake 
-* <em>Analytics and visualization:</em> Google Analytics, Tableau
+* <em>Analytics and visualization:</em> Google Analytics, Tableau, Looker Studio
 * <em>Agile / project management:</em> Jira, Confluence, Adobe Workfront
 
 ---
