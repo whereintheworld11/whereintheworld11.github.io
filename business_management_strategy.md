@@ -11,3 +11,5 @@ Evan has helped numerous organizations find growth, better connect with and meet
 * Many "inactive" customers were engaging with email but not visiting the mobile app and another team had launched an email that produced 6X the account bookings that the same offers did in the app's marketplace. Realizing an opportunity to drive substantial value, Evan led the end-to-end prioritization, design, development, test, and launch of a cross-marketing email project that achieved a $71M run rate, almost doubling the organization's revenue.
 * The main operating room was rarely full, yet patients were waiting months for surgery. Evan identified multiple process issues and designed solutions that, once implemented, drove $3M in annual contribution margin growth.
 * During annual planning, Evan partnered with cross-functional leaders to ideate and prioritize initiatives to drive 90-day retention (the team's target metric or OKR). In particular, Evan produced the impact estimates forming the justification for the resource investment needed to drive a 12% lift in retention.
+
+[Click here](/index) to return to the main page.
