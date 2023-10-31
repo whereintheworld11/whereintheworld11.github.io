@@ -1,7 +1,7 @@
 #  Business management / strategy 
 
 
-Business growth requires determining where to play, who to serve, and how to win (or [product-market fit](https://medium.com/@jnvipul/pm-corner-what-is-product-market-fit-pmf-9c087b7edadd)). These can change based on external market factors and as a business matures. Ideas become viable solutions through the stages of discovery, definition, development, and delivery.
+Business growth requires determining where to play, who to serve, and how to win. These can change based on external market factors and as a business matures. Ideas become viable solutions through the stages of discovery, definition, development, and delivery.
 
 <p align="center">
   <img src="images/customer flow logo.png?raw=true"/>
