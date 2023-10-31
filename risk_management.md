@@ -6,4 +6,6 @@ Sometimes people seek gain at others' expense, and occasionally business or data
   <img src="images/stop bad stuff.png?raw=true"/>
 </p>
 
-** more information coming soon **
+Evan develops solutions while considering the various potential pitfalls, ensuring the highest likelihood of success. He also led cross-team innovation and product team focused on emerging risks for a financial institution's Anti-Money Laundering (AML) Models Development group:
+* Evan's team assessed the money laundering risk of the acquired wealth management firm's products, concluding a transaction-monitoring model was necessary to mitigate the risk. He then led the end-to-end development of the model, including design, development, data controls, testing, and launch. The model, the first new model developed in at least 3 years, allowed the acquired firm to puruse it's 7X growth ambitions.
+* Investigators identified illegal online gambling. Evan and his team sized and defined the risk, Evan partnered with leaders across multiple organizations, and Evan presented a mitigation recommendation to senior-executive AML and Fraud leadership. The implemented solution requiring minimal investment and satisfied the scrutiny of federal regulators.
