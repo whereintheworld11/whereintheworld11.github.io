@@ -9,7 +9,7 @@
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
 
-[Read](/business_management_strategy) my perspectives and learn about my project work in business management and business strategy. 
+[Read](/business_management_strategy) Evan's perspectives and learn about his project work in business management and business strategy. 
 
 <!-- 
 [Project 1 Title](/sample_page)
@@ -21,7 +21,7 @@
   <img src="images/Customer service dashboard truncated.png?raw=true"/>
 </p>
 
-[Learn more](/analytics_and_data_science) about my thoughts and project work in analytics and data science
+[Learn more](/analytics_and_data_science) about Evan's thoughts and project work in analytics and data science.
   
 <!--
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -33,9 +33,7 @@
   <img src="images/stop bad stuff.png?raw=true"/>
 </p>
 
-[Find out more](/risk_management) about my perspectives and experience in risk management.
-
-<br>
+[Find out more](/risk_management) about Evan's perspectives and experience in risk management.
 
 <hr style="border:0.1px solid gray">
 
@@ -49,8 +47,6 @@ We can [structure a project](/engagement_model) to meet your needs.
 ### Project ideas
 [See here](/ideas) for ways we could partner. 
 
-<br>
-
 <hr style="border:.1px solid gray">
 
 <br>
@@ -58,15 +54,13 @@ We can [structure a project](/engagement_model) to meet your needs.
 ## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
-<br>
-
 <hr style="border:.1px solid gray">
 
 <br>
 
 **Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
 
-<br><br>
+<br>
 
 
 <!--
