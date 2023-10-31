@@ -42,10 +42,10 @@
 ## Working together
 
 ### Project engagement model 
-We can [structure a project](/engagement_model) to meet your needs.
+[Structure a project](/engagement_model) to meet your needs.
 
 ### Project ideas
-[See here](/ideas) for ways we could partner. 
+[See here](/ideas) for potential ways to work together. 
 
 <hr style="border:.1px solid gray">
 
