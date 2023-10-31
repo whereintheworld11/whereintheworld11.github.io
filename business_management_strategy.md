@@ -8,5 +8,6 @@ Business growth requires determining where to play, who to serve, and how to win
 </p>
 
 Evan has helped numerous organizations find growth, better connect with and meet their customers' needs, and improve operations:
-* Launched a cross-marketing email project that achieved a $71M run rate, including building the business case, project management, writing the creative brief, developing and implementing the launch plan (in-market testing and scaling), and building monitoring (funnel and booking metrics).
-* Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
+* Many "inactive" customers were engaging with email but not visiting the mobile app and another team had launched an email that produced 6X the account bookings that the same offers did in the app's marketplace. Realizing an opportunity to drive substantial value, Evan led the end-to-end prioritization, design, development, test, and launch of a cross-marketing email project that achieved a $71M run rate, almost doubling the organization's revenue.
+* The main operating room was rarely full, yet patients were waiting months for surgery. Evan identified multiple process issues and designed solutions that, once implemented, drove $3M in annual contribution margin growth.
+* During annual planning, Evan partnered with cross-functional leaders to ideate and prioritize initiatives to drive 90-day retention (the team's target metric or OKR). In particular, Evan produced the impact estimates forming the justification for the resource investment needed to drive a 12% lift in retention.
