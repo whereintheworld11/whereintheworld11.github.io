@@ -16,6 +16,8 @@ My process typically includes:
 
 We can adjust the working model to your specific needs. [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation. 
 
+[Click here](/index) to return to the main page.
+
 <!--
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
