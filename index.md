@@ -58,6 +58,14 @@ We can [structure a project](/engagement_model) to meet your needs.
 ## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
 
+<br>
+
+<hr style="border:.1px solid gray">
+
+<br>
+
+** Ready to work together or have questions? ** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
+
 <br><br>
 
 
