@@ -7,6 +7,6 @@ Business growth requires determining where to play, who to serve, and how to win
   <img src="images/customer flow logo.png?raw=true"/>
 </p>
 
-I have helped numerous organizations find growth, connect with their customers, and improve operations:
+Evan has helped numerous organizations find growth, better connect with and meet their customers' needs, and improve operations:
 * Launched a cross-marketing email project that achieved a $71M run rate, including building the business case, project management, writing the creative brief, developing and implementing the launch plan (in-market testing and scaling), and building monitoring (funnel and booking metrics).
 * Streamlined process issues that led to under-utilization of capital resources, driving $3M annual contribution margin growth.
