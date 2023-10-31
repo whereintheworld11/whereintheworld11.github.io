@@ -14,4 +14,4 @@ Potential ways I can help you:
 
 * <em> Risk mitigation.</em> Identify and mitigate data or financial crime risks.
 
-Decided Evan could help or you have questions you would like answered? Feel free to send Evan an [email](grow.with.a.purpose@gmail.com).
+Decided Evan could help or you have questions you would like answered? Feel free to send Evan an [email](mailto:grow.with.a.purpose@gmail.com).
