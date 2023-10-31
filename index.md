@@ -89,7 +89,7 @@ We can [structure a project](/engagement_model) to meet your needs.
 - [Project 5 Title](http://example.com/)
 -->
   
----
+<hr style="border:.1px solid gray">
 
 
 <p style="font-size:8px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
