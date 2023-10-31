@@ -1,7 +1,7 @@
 <img src="images/lets find growth.png?raw=true"/>
 <br><br>
 
-## Solutions
+## Practice Areas
 
 ### Business management / strategy 
 
