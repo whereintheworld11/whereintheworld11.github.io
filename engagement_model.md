@@ -14,7 +14,7 @@ My process typically includes:
 
 * <em> Ongoing support.</em> If you have questions, I’m here! Just drop me a line or we can set up a quick call. Your business and needs will change over time, so we can always build upon or update the solution!
 
-We can adjust the working model to your specific needs.
+We can adjust the working model to your specific needs. [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation. 
 
 <!--
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
