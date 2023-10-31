@@ -27,3 +27,5 @@ Certified Anti-Money Laundering Specialist (CAMS), Association of Certified Anti
 Google Analytics Certified (Issued March 2015)
 
 Leading with Analytics-Powered Strategy, Kellogg at Northwestern University (Issued April 2019)
+
+[Click here](/index) to return to the main page.
