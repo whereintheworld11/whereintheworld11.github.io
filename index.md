@@ -60,9 +60,6 @@ We can [structure a project](/engagement_model) to meet your needs.
 
 **Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
 
-<br>
-
-
 <!--
 ---
 
