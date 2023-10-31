@@ -1,7 +1,7 @@
 <img src="images/lets find growth.png?raw=true"/>
 <br><br>
 
-## Practice Areas
+## Functional Areas
 
 ### Business management / strategy 
 
