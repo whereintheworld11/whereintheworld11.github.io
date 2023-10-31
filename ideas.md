@@ -13,3 +13,5 @@ Potential ways I can help you:
 * <em> Experiments / optimization.</em> Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
 
 * <em> Risk mitigation.</em> Identify and mitigate data or financial crime risks.
+
+Decided Evan could help or you have questions you would like answered? Feel free to send Evan an [email](grow.with.a.purpose@gmail.com).
