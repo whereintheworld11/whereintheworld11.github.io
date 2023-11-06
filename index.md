@@ -81,8 +81,6 @@
 
 <hr style="border:.1px solid gray">
 
-<br>
-
 **Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
 
 <!--
