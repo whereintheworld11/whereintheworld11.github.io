@@ -17,18 +17,24 @@
 * **Operating model assessment.** Find out whether your organization is ready to succeed.
 * **Goal setting / strategy development.** Develop achievable goals and a strategy to achieve them.
 * **Opportunity assessment / solution design and delivery.** Understand your customer opportunities and deliver products or services that meet their needs.
+
 <br>
+
 [Learn more](/business_management_strategy)
 
 #### Analytics and data science
 * **Data visualization.** Visualize performance metrics and create a dashboard.
 * **Experiments / optimization.** Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+
 <br>
+
 [Learn more](/analytics_and_data_science)
 
 ### Risk management
 * **Mitigation.** Identify and mitigate data or financial crime risks.
+
 <br>
+
 [Learn more](/risk_management)
 
 <!--
