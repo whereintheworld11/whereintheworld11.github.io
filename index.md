@@ -14,17 +14,19 @@
 
 ### Business management / strategy: 
 * **Performance assessment.** Determine whether your current activities are driving your desired outcomes.
-* <em> Operating model assessment.</em> Find out whether your organization is ready to succeed.
-* <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
-* <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver products or services that meet their needs.
+* **Operating model assessment.** Find out whether your organization is ready to succeed.
+* **Goal setting / strategy development.** Develop achievable goals and a strategy to achieve them.
+* **Opportunity assessment / solution design and delivery.** Understand your customer opportunities and deliver products or services that meet their needs.
+[Learn more](/business_management_strategy)
 
 #### Analytics and data science
-* <em> Data visualization.</em> Visualize performance metrics and create a dashboard.
-* <em> Experiments / optimization.</em> Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+* **Data visualization.** Visualize performance metrics and create a dashboard.
+* **Experiments / optimization.** Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+[Learn more](/analytics_and_data_science)
 
 ### Risk management
-* <em> Mitigation.</em> Identify and mitigate data or financial crime risks.
-
+* **Mitigation.** Identify and mitigate data or financial crime risks.
+[Learn more](/risk_management)
 
 <!--
 
