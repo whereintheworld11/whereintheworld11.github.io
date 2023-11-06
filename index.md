@@ -1,14 +1,12 @@
 <img src="images/Matterhorn2.jpeg?raw=true"/>
 
-<br>
-
 <hr style="border:0.1px solid gray">
 
 **Success requires a clear vision of customer needs, an organization that consistently meets them, and the ability to adjust as the competitive environment changes.**
 
 <hr style="border:0.1px solid gray">
 
-<br><br>
+<br>
 
 ## Areas of Practice
 
@@ -74,15 +72,11 @@
 
 <hr style="border:.1px solid gray">
 
-<br>
-
 ## Working together
 
 [Structure a project](/engagement_model) to meet your needs.
 
 <hr style="border:.1px solid gray">
-
-<br>
 
 ## Qualifications
 [Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
