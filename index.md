@@ -1,6 +1,28 @@
 <img src="images/Matterhorn2.jpeg?raw=true"/>
 <br><br>
 
+Success requires a clear vision of customer needs, an organization that consistently meets them, and the ability to adjust as the competitive environment changes.
+
+<hr style="border:0.1px solid gray">
+
+## Areas of Practice
+
+### Business management / strategy: 
+* <em> Performance assessment.</em> Determine whether your current activities are driving your desired outcomes.
+* <em> Operating model assessment.</em> Find out whether your organization is ready to succeed.
+* <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
+* <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver products or services that meet their needs.
+
+#### Analytics and data science
+* <em> Data visualization.</em> Visualize performance metrics and create a dashboard.
+* <em> Experiments / optimization.</em> Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
+
+### Risk management
+* <em> Mitigation.</em> Identify and mitigate data or financial crime risks.
+
+
+<!--
+
 ## Functional Areas
 
 ### Business management / strategy 
@@ -11,9 +33,9 @@
 
 [Read](/business_management_strategy) Evan's perspectives and learn about his project work in business management and business strategy. 
 
-<!-- 
-[Project 1 Title](/sample_page)
--->
+ 
+//[Project 1 Title](/sample_page)
+
 
 ### Analytics and data science
 
@@ -23,9 +45,8 @@
 
 [Learn more](/analytics_and_data_science) about Evan's thoughts and project work in analytics and data science.
   
-<!--
-[Project 2 Title](/pdf/sample_presentation.pdf)
--->
+//[Project 2 Title](/pdf/sample_presentation.pdf)
+
 
 ### Risk management
 
@@ -39,13 +60,11 @@
 
 <br>
 
+-->
+
 ## Working together
 
-### Project engagement model 
 [Structure a project](/engagement_model) to meet your needs.
-
-### Project ideas
-[See here](/ideas) for potential ways to work together. 
 
 <hr style="border:.1px solid gray">
 
@@ -61,6 +80,10 @@
 **Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
 
 <!--
+
+### Project ideas
+[See here](/ideas) for potential ways to work together. 
+
 ---
 
 [Project 3 Title](http://example.com/)
