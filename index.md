@@ -18,18 +18,18 @@
 * **Goal setting / strategy development.** Develop achievable goals and a strategy to achieve them.
 * **Opportunity assessment / solution design and delivery.** Understand your customer opportunities and deliver products or services that meet their needs.
 
-[Learn more](/business_management_strategy)
+    [Learn more](/business_management_strategy)
 
-#### Analytics and data science
+### Analytics and data science
 * **Data visualization.** Visualize performance metrics and create a dashboard.
 * **Experiments / optimization.** Design low-cost experiments (e.g., A/B testing) to optimize product features or marketing efforts.
 
-[Learn more](/analytics_and_data_science)
+    [Learn more](/analytics_and_data_science)
 
 ### Risk management
 * **Mitigation.** Identify and mitigate data or financial crime risks.
 
-[Learn more](/risk_management)
+    [Learn more](/risk_management)
 
 <!--
 
