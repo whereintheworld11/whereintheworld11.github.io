@@ -18,7 +18,7 @@
 * **Goal setting / strategy development.** Develop achievable goals and a strategy to achieve them.
 * **Opportunity assessment / solution design and delivery.** Understand your customer opportunities and deliver products or services that meet their needs.
 
-    [Learn more](/business_management_strategy)
+    [Learn more](/business_management_strategy) <!-- about Evan's perspectives and relevant project work. -->
 
 ### Analytics and data science
 * **Data visualization.** Visualize performance metrics and create a dashboard.
