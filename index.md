@@ -62,6 +62,10 @@ Success requires a clear vision of customer needs, an organization that consiste
 
 -->
 
+<hr style="border:.1px solid gray">
+
+<br>
+
 ## Working together
 
 [Structure a project](/engagement_model) to meet your needs.
