@@ -1,7 +1,12 @@
 <img src="images/Matterhorn2.jpeg?raw=true"/>
-<br><br>
 
-Success requires a clear vision of customer needs, an organization that consistently meets them, and the ability to adjust as the competitive environment changes.
+<br>
+
+<hr style="border:0.1px solid gray">
+
+<br>
+
+*** Success requires a clear vision of customer needs, an organization that consistently meets them, and the ability to adjust as the competitive environment changes. ***
 
 <hr style="border:0.1px solid gray">
 
