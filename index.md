@@ -13,7 +13,7 @@
 ## Areas of Practice
 
 ### Business management / strategy: 
-* <em> Performance assessment.</em> Determine whether your current activities are driving your desired outcomes.
+* **Performance assessment.** Determine whether your current activities are driving your desired outcomes.
 * <em> Operating model assessment.</em> Find out whether your organization is ready to succeed.
 * <em> Goal setting / strategy development.</em> Develop achievable goals and a strategy to achieve them.
 * <em> Opportunity assessment / solution design and delivery.</em> Understand your customer opportunities and deliver products or services that meet their needs.
