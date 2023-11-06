@@ -6,8 +6,6 @@
 
 <hr style="border:0.1px solid gray">
 
-<br>
-
 ## Areas of Practice
 
 ### Business management / strategy: 
