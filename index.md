@@ -22,8 +22,7 @@
 
     [Learn more](/analytics_and_data_science)
 
-### Risk management
-* **Mitigation.** Identify and mitigate data or financial crime risks.
+<p style="font-size:12px"> **Risk management.**  </p> Identify and mitigate data or financial crime risks.
 
     [Learn more](/risk_management)
 
