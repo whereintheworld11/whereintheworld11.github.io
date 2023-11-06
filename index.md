@@ -1,4 +1,4 @@
-<img src="images/lets find growth.png?raw=true"/>
+<img src="images/Matterhorn.jpeg?raw=true"/>
 <br><br>
 
 ## Functional Areas
