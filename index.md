@@ -1,4 +1,4 @@
-<img src="images/Matterhorn.jpeg?raw=true"/>
+<img src="images/Matterhorn2.jpeg?raw=true"/>
 <br><br>
 
 ## Functional Areas
