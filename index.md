@@ -22,7 +22,7 @@
 
     [Learn more](/analytics_and_data_science)
 
-<p style="font-size:24px"><strong> Risk management. </strong> Identify and mitigate data or financial crime risks. </p>
+<p style="font-size:36px"><strong> Risk management. </strong> Identify and mitigate data or financial crime risks. </p>
 
     [Learn more](/risk_management)
 
