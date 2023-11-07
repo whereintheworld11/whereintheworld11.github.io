@@ -57,6 +57,7 @@ Business management / strategy + analytics + risk management
 
 * <em>Agile / project management:</em> Jira, Confluence, Adobe Workfront
 
+<br>
 
 <hr style="border:.1px solid gray">
 
