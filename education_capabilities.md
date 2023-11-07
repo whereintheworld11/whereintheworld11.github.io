@@ -56,3 +56,12 @@ Business management / strategy + analytics + risk management
 * <em>Analytics and visualization:</em> Google Analytics, Tableau, Looker Studio
 
 * <em>Agile / project management:</em> Jira, Confluence, Adobe Workfront
+
+
+<hr style="border:.1px solid gray">
+
+**Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
+
+<hr style="border:.1px solid gray">
+
+[<<< Click here](/index) to return to the main page.
