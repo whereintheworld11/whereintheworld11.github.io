@@ -83,7 +83,7 @@
 <hr style="border:.1px solid gray">
 
 ## Qualifications
-[Learn more](/education_capabilities) about my top-tier business education, certifications and skillsets. 
+[Learn more](/education_capabilities) about Evan's top-tier business education, certifications and skillsets. 
 
 <hr style="border:.1px solid gray">
 
