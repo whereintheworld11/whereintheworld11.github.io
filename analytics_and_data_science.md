@@ -17,4 +17,4 @@ Evan marries successful business management and strategy principles with analyti
 
 <hr style="border:.1px solid gray">
 
-[<<< Click here](/index) to return to the main page.
+[\<<< Click here](/index) to return to the main page.
