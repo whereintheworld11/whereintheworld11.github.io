@@ -11,4 +11,10 @@ Evan marries successful business management and strategy principles with analyti
 * **Effective anomaly response.** US pandemic relief funds drove a massive spike in ATM transactions as well as alert volumes for the anti-money laundering data monitoring model increasing investigation backlogs and leading to substantial costs and regulatory risk. Hypothesis testing, cohort analysis, investigator interviews, and 10K simulations revealed opportunities to cut ~30K alerts saving more than $5M in operating costs.
 * **Experimentation.**  Changing the order of offers on the marketplace page was expected to impact consumer conversion. Instead, an A/B test revealed that which offer was listed first did not produce a statistically significant difference in conversion. Rather than building an automated solution to optimize order sequencing, the team focused resources elsewhere.
 
-[Click here](/index) to return to the main page.
+<hr style="border:.1px solid gray">
+
+**Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
+
+<hr style="border:.1px solid gray">
+
+[<<< Click here](/index) to return to the main page.
