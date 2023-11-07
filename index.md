@@ -1,4 +1,4 @@
-<img src="images/treetrunk_medium.png?raw=true"/>
+<img src="images/treetrunk_textedited2.jpeg?raw=true"/>
 
 <hr style="border:0.1px solid gray">
 
