@@ -16,4 +16,4 @@ Evan develops solutions while considering the various potential pitfalls, ensuri
 
 <hr style="border:.1px solid gray">
 
-[<<< Click here](/index) to return to the main page.
+[\<<< Click here](/index) to return to the main page.
