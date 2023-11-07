@@ -12,4 +12,10 @@ Evan has helped numerous organizations find growth, better connect with and meet
 * **Process optimization.** The main operating room was rarely full, yet patients were waiting months for surgery. Evan identified multiple process issues and designed solutions that, once implemented, drove $3M in annual contribution margin growth.
 * **Strategic planning.** Evan has extensive experience building business cases for strategic initiatives and customer opportunities, complex cross-functional project plans, and annual plans. Grounded in insights, those plans have led to establishment of new organizations, launch of customer solutions, streamlined processes, and reduced risk.
 
-[Click here](/index) to return to the main page.
+<hr style="border:.1px solid gray">
+
+**Ready to work together or have questions?** [Email Evan](mailto:grow.with.a.purpose@gmail.com) to start the conversation.
+
+<hr style="border:.1px solid gray">
+
+[<<< Click here](/index) to return to the main page.
