@@ -18,4 +18,4 @@ Evan has helped numerous organizations find growth, better connect with and meet
 
 <hr style="border:.1px solid gray">
 
-[<<< Click here](/index) to return to the main page.
+[\<<< Click here](/index) to return to the main page.
